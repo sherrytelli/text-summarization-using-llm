@@ -76,16 +76,34 @@ The script will:
 
 ### 🔹 Input
 ```text
-Education enables individuals to develop the knowledge, skills and confidence needed to participate fully in society. Through teaching and learning, societies pass on essential knowledge, values and competencies across generations. Education builds foundational literacy and numeracy strengthens social and emotional skills and equips people to make informed choices about their lives and their communities.
+Education enables individuals to develop the knowledge, skills and confidence
+needed to participate fully in society. Through teaching and learning, societies
+pass on essential knowledge, values and competencies across generations. Education
+builds foundational literacy and numeracy strengthens social and emotional skills
+and equips people to make informed choices about their lives and their communities.
 
-Education is one of the most powerful tools for lifting excluded children and adults out of poverty and is an enabler of other fundamental human rights. It is a cornerstone of peace, justice, and resilience in the face of today’s most pressing global challenges. It forms the foundation of democratic society, and the right to education is protected under international law. 
+Education is one of the most powerful tools for lifting excluded children and adults
+out of poverty and is an enabler of other fundamental human rights. It is a cornerstone
+of peace, justice, and resilience in the face of today’s most pressing global challenges.
+It forms the foundation of democratic society, and the right to education is protected
+under international law. 
 
-To achieve the right to education for all, education must be inclusive, equitable and free from discrimination. UNESCO works closely with Member States and partners to uphold these principles and strengthen education systems worldwide to make sure no learner is left behind. 
+To achieve the right to education for all, education must be inclusive, equitable and
+free from discrimination. UNESCO works closely with Member States and partners to
+uphold these principles and strengthen education systems worldwide to make sure no
+learner is left behind. 
 ```
 
 ### 🔹 Output
 ```text
-Education provides essential knowledge for societal participation, builds foundational skills like literacy and numeracy while also fortifying social competencies and informed decision-making abilities. It serves as a powerful instrument in alleviating poverty and promoting fundamental human rights such as freedom of expression or equality before the law. Education is integral to democratic society's foundation, peace, justice, resilience against global challenges like climate change, health crises etc., ensuring inclusivity and non-discrimination in learning environments while upholding international legal standards for education rights through initiatives by UNESCO.
+Education provides essential knowledge for societal participation, builds foundational
+skills like literacy and numeracy while also fortifying social competencies and informed
+decision-making abilities. It serves as a powerful instrument in alleviating poverty and
+promoting fundamental human rights such as freedom of expression or equality before the
+law. Education is integral to democratic society's foundation, peace, justice, resilience
+against global challenges like climate change, health crises etc., ensuring inclusivity
+and non-discrimination in learning environments while upholding international legal standards
+for education rights through initiatives by UNESCO.
 ```
 
 ---
