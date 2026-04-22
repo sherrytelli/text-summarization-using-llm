@@ -41,9 +41,6 @@ class TextSummarizer:
                 - First identify key sections internally.
                 - Then produce a unified, coherent summary.
 
-                If the input is unclear or lacks meaningful content:
-                - Return: "The provided text does not contain enough meaningful information to summarize."
-
                 Always prioritize meaning, brevity, and clarity.
                 """
     def summarize(self, text):
@@ -55,4 +52,4 @@ class TextSummarizer:
             ]
         )
         
-        return response
+        return response.message.content
