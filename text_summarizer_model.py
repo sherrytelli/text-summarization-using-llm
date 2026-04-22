@@ -2,7 +2,10 @@ import ollama
 
 class TextSummarizer:
     def __init__(self, model_name = "phi3:3.8b"):
+        # model name
         self.MODEL_NAME = model_name
+        
+        # system prompt
         self.SYSTEM_PROMPT = """
                 You are an expert text summarization agent.
 
@@ -44,6 +47,15 @@ class TextSummarizer:
                 Always prioritize meaning, brevity, and clarity.
                 """
     def summarize(self, text):
+        """generate summary of the given text
+
+        Args:
+            text (str): text to summarize
+
+        Returns:
+            text (str): summarized text
+        """
+        
         response = ollama.chat(
             model=self.MODEL_NAME,
             messages=[
