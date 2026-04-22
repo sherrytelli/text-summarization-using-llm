@@ -48,7 +48,7 @@ class TextSummarizer:
             model=self.MODEL_NAME,
             messages=[
                 {'role': 'system', 'content': self.SYSTEM_PROMPT},
-                {'role': 'user', 'content': 'text'}
+                {'role': 'user', 'content': text}
             ]
         )
         
